@@ -6,7 +6,7 @@ Tapasimme **Timo Herttuan** kanssa Helsingissä elokuussa 2014, ja tällaisia aj
 
 Ratkoessaan merkittäviä ulkoisia ongelmia, startup-hankkeet kohtaavat monenmoisia sisäisiä ongelmia. Niitä voi tarkastella "matchmaking"- eli kohtaamisongelmina, joissa eri osapuolet tai heidän tavoitteensa eivät kohtaa. Tämä artikkeli käsittelee näitä kohtaamisongelmia erityisesti opiskelija-starttien kohdalla, ts. joissa startup-yrittäjät ovat opiskelijoita, jotka ovat vuorovaikutuksessa ympäristön kanssa. Tarkemmin ottaen nostamme esiin ympäristöstä suuryritykset eli korporaatiot, jotka saattaisivat hyötyä nuorten ja energisten startup-tiimien työpanoksesta.
 
-Lyhyesti sanottuna opiskelijoilla on energiaa ja osaamista ja yrityksillä tunnettuja ongelmia, mutta ei aikaa niiden ratkaisemiseen. Tunnettujen ongelmien lisäksi yrityksillä on tuntemattomia ongelmia, joiden löytämiseen opiskelijatiimien tekemää työtä voisi kanavoida design-ajattelun (design thinking) ja asiakaskehitysmallin (customer development) hengessä.
+Lyhyesti sanottuna opiskelijoilla on energiaa ja osaamista ja yrityksillä tunnettuja ongelmia, mutta ei aikaa niiden ratkaisemiseen. Tunnettujen ongelmien lisäksi yrityksillä on tuntemattomia ongelmia, joiden löytämiseen opiskelijatiimien tekemää työtä voisi kanavoida design-ajattelun (design thinking) ja Steven G. Blankin esittelemän asiakaskehitysmallin (customer development) hengessä.
 
  Voimme soveltaa tähän ajatukseen kaksisuuntaista alustadynaamiikka näin:
 
@@ -25,7 +25,7 @@ Tarkastelemme tässä paperissa kolmea kohtaamisongelmaa opiskelijoiden ja korpo
 3.	luottamusongelma
 4.	tiimiytymisongelma
 
-**Kiinnostusongelma** on kohtaamisongelma opiskelijoiden kiinnostuksen ja hankkeiden välillä – ts. baariongelmat kiinnostaa enemmän kuin hissifirman optimointi. Meille useita opiskelijastartteja nähneille tämä on tuttu teema – ideat reflektoivat opiskelijoiden liian rajallista kokemusta, ja siksi ratkaistavat ongelmat ovat triviaaleja.
+**Kiinnostusongelma** on kohtaamisongelma opiskelijoiden kiinnostuksen ja hankkeiden välillä – ts. baariongelmat kiinnostaa enemmän kuin hissifirman optimointi. Meille useita opiskelijastartteja nähneille tämä on tuttu teema – ideat reflektoivat opiskelijoiden rajallista kokemusta, ja siksi ratkaistavat ongelmat ovat usein triviaaleja.
 
 **Osaamisongelma** on kohtaamisongelma opiskelijoiden osaamisen ja tarvittavan osaamisen välillä. Toisin sanoen opiskelijat voivat olla tarpeeksi taitavia rakentamaan baarisovelluksia mutta eivät tarpeeksi taitavia ratkaisemaan teknisesti erittäin haastavia ongelmia, tai ongelmia jotka vaativat erittäin kapeaa mutta syvää osaamista.
 
@@ -41,7 +41,7 @@ Tietysti edellä mainitut kohtaamisongelmat ovat ainoastaan yksi ulottuvuus miet
 
 ## Kuinka ratkoa ongelmat?
 
-Timo korosti sitä näkökulmaa, että alustan toiminnassa tulisi olla mukana kokeneita startup-yrittäjiä, jotka auttaisivat ehkäisemään useita startup-harhoja, joista kirjoitin väitöskirjassani (esim. validation bias, internalization problem, lack of domain-specific expertise). Alustana voisi toimia myös teollisinkubaattori, johon suuryritykset antavat rahaa. Kaiken kaikkiaan liiketoimintamallin *, markkinatutkimus, tuotekehitys, kaupallistaminen, rahoitus. Olennaista on, että sovelletaan nykyaikaisia menetelmiä byrokraattisten mallien sijaan, ja sitoutetaan hands-on-eksperttejä sellaisten ihmisten sijaan, jotka eivät pysty tuomaan lisäarvoa startupin rakentamisen arkeen.
+Timo korosti sitä näkökulmaa, että alustan toiminnassa tulisi olla mukana kokeneita startup-yrittäjiä, jotka auttaisivat ehkäisemään useita startup-harhoja, joista kirjoitin väitöskirjassani (esim. validation bias, internalization problem, lack of domain-specific expertise). Alustana voisi toimia myös teollisinkubaattori, johon suuryritykset antavat rahaa. Kaiken kaikkiaan fokuksena tulisi olla markkina-, liiketoimintamalli-, asiakas- ja tuotekehitys, yleisesti ottaen kaupallistaminen sekä mahdollisesti myös rahoituksen nostaminen. Olennaista on, että sovelletaan ketteriä, hukkaa poistavia menetelmiä asiantuntijaraateihin perustuvien mallien sijaan, ja sitoutetaan hands-on-eksperttejä sellaisten ihmisten sijaan, jotka eivät pysty tuomaan lisäarvoa startupin rakentamisen arkeen.
 
 Tiivistimme seuraavaan taulukkoon mahdollisia ratkaisuja kohtaanto-ongelmien ratkaisemiseksi.
 
@@ -49,7 +49,7 @@ Tiivistimme seuraavaan taulukkoon mahdollisia ratkaisuja kohtaanto-ongelmien rat
 |---|---|
 |kiinnostusongelma|Opiskelijoiden mielenkiinnon kohteiden laajentaminen; yritysvierailut, vierailuluennot|
 |osaamisongelma|Opetuksen päivittäminen työelämässä tarvittavien taitojen opettamiseksi, laadukas opetus|
-|luottamusongelma|NDA-sopimukset, yhteisten pelisääntöjen sopiminen, yritysten avustaminen riskianalyysissa|
+|luottamusongelma|Kevyillä kokeiluilla aloittaminen, strateginen projektien rajaus, NDA-sopimukset, yhteisten pelisääntöjen sopiminen, yritysten avustaminen riskianalyysissa|
 |tiimiytymisongelma|Ristiinpölyttymismahdollisuuksien kasvattaminen, erilaiset startup-tapahtumat|
 
 Käytännön toteutuksessa on myös useita avoimia kysymyksiä, joihin tulisi löytää vastaukset. 
@@ -65,7 +65,7 @@ Yleisesti ottaen toivoisimme, että startupit käyttäisivät luovuutta ja kyvyk
 
 Uskomme, että startupien hyödyntäminen yhteiskunnallisesti merkittävissä hankkeissa olisi järkevää ja johtaisi etenkin ohjelmistokehityksessä nykyisiä suorastaan surkeita tuloksia parempiin tuloksiin. Valtion johdolla olisi mahdollista lähteä mukaan konkreettisesti kokeilukulttuuriin, jossa nykyisen hankintakulttuurin selkein ongelma, eli liian isot tietojärjestelmähankkeet, pilkottaisiin osaongelmiinsa jolloin niiden ratkaisu olisi mahdollista myös pienemmille toimijoille.
 
-Tässä artikkelissa olemme pohtineet problematiikka isot suomalaiset yritykset ja startupit saman pöydän ääreen. Lähestymistapoja on varmasti muitakin; oletko sinä miettinyt tätä asiaa omalla tahollasi? Mihin johtopäätökseen päädyit? Osallistu keskusteluun kommenttikentässä.
+Tässä artikkelissa olemme pohtineet sitä, miten voisimme saada isot suomalaiset yritykset ja startupit saman pöydän ääreen. Lähestymistapoja on varmasti muitakin; oletko sinä miettinyt tätä asiaa omalla tahollasi? Mihin johtopäätökseen päädyit? Osallistu keskusteluun kommenttikentässä.
 
 
 *Turussa 3.9.2015*
