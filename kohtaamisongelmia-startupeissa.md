@@ -1,6 +1,6 @@
 # Kohtaamisongelmia startupeissa
 
-Tapasimme Timo Herttuan kanssa Helsingissä elokuussa 2014, ja tällaisia ajatuksia tapaamisessa syntyi. Pohdin keskustelussamme sitä vaihtoehtoa, että opiskelijavetoiset startit ohjattaisiin löytämään ja ratkaisemaan suuryritysten (Kone, Wärtsilä, jne.) ongelmia. Tällä vältettäisiin "triviaalien applikaatioiden ongelma", eli se että huikea määrä lahjakkuutta pohtii jotain baarisovelluksia (ihan hyvä jos joku niitä tekee, mutta kun baarisovellusten kaltaiset jutut ovat toistuvia ilmiöitä meille startteja seuraaville).
+Tapasimme **Timo Herttuan** kanssa Helsingissä elokuussa 2014, ja tällaisia ajatuksia tapaamisessa syntyi. Pohdin keskustelussamme sitä vaihtoehtoa, että opiskelijavetoiset startit ohjattaisiin löytämään ja ratkaisemaan suuryritysten (Kone, Wärtsilä, jne.) ongelmia. Tällä vältettäisiin "triviaalien applikaatioiden ongelma", eli se että huikea määrä lahjakkuutta pohtii jotain baarisovelluksia (ihan hyvä jos joku niitä tekee, mutta kun baarisovellusten kaltaiset jutut ovat toistuvia ilmiöitä meille startteja seuraaville).
 
 ## Johdanto
 
@@ -70,6 +70,6 @@ Tässä artikkelissa olemme pohtineet problematiikka isot suomalaiset yritykset 
 
 *Turussa 3.9.2015*
 
-Joni Salminen on kauppatieteiden tohtori, joka toimii Turun kauppakorkeakoulussa digitaalisen markkinoinnin opettajana. Joni tutki väitöskirjassaan alusta-startupien strategisia ongelmia Internetissä. Väitöskirja on ladattavissa täältä:
+**Joni Salminen** on kauppatieteiden tohtori, joka toimii Turun kauppakorkeakoulussa digitaalisen markkinoinnin opettajana. Joni tutki väitöskirjassaan alusta-startupien strategisia ongelmia Internetissä. Väitöskirja on ladattavissa täältä: **_[latauslinkki!]_**
 
-Timo Herttua on startup-yrittäjä, mentori ja …
+**Timo Herttua** on palkkatöistä yrittäjäksi vastikään palannut tuotekehittäjä, joka on yrittäjänä toiminut niin startupien, digitaalisen tuotekehityksen, myynnin, markkinoinnin kuin strategiankin parissa. Timo auttaa kasvuhaluisia yrityksiä löytämään uusia kasvu-uria hyödyntämällä markkinointianalytiikkaa sekä lean startup -menetelmää. Lisätietoja täältä: http://www.efekta.fi
