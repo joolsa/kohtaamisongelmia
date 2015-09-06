@@ -46,6 +46,7 @@ Timo korosti sitä näkökulmaa, että alustan toiminnassa tulisi olla mukana ko
 Tiivistimme seuraavaan taulukkoon mahdollisia ratkaisuja kohtaanto-ongelmien ratkaisemiseksi.
 
 |Ongelma|Mahdollinen ratkaisu|
+|---|---|
 |kiinnostusongelma|Opiskelijoiden mielenkiinnon kohteiden laajentaminen; yritysvierailut, vierailuluennot|
 |osaamisongelma|Opetuksen päivittäminen työelämässä tarvittavien taitojen opettamiseksi, laadukas opetus|
 |luottamusongelma|NDA-sopimukset, yhteisten pelisääntöjen sopiminen, yritysten avustaminen riskianalyysissa|
