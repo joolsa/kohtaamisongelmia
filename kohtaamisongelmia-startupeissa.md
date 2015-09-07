@@ -70,6 +70,6 @@ Tässä artikkelissa olemme pohtineet sitä, miten voisimme saada isot suomalais
 
 *Turussa 3.9.2015*
 
-**Joni Salminen** on kauppatieteiden tohtori, joka toimii Turun kauppakorkeakoulussa digitaalisen markkinoinnin opettajana. Joni tutki väitöskirjassaan alusta-startupien strategisia ongelmia Internetissä. Väitöskirja on ladattavissa täältä: **_[latauslinkki!]_**
+**Joni Salminen** on kauppatieteiden tohtori, joka toimii Turun kauppakorkeakoulussa digitaalisen markkinoinnin opettajana. Joni tutki väitöskirjassaan alusta-startupien strategisia ongelmia Internetissä. Väitöskirja on ladattavissa täältä: https://www.doria.fi/handle/10024/99349
 
 **Timo Herttua** on palkkatöistä yrittäjäksi vastikään palannut tuotekehittäjä, joka on yrittäjänä toiminut niin startupien, digitaalisen tuotekehityksen, myynnin, markkinoinnin kuin strategiankin parissa. Timo auttaa kasvuhaluisia yrityksiä löytämään uusia kasvu-uria hyödyntämällä markkinointianalytiikkaa sekä lean startup -menetelmää. Lisätietoja täältä: http://www.efekta.fi
